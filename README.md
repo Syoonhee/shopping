@@ -1,5 +1,5 @@
-#  [팀프로젝트] JSP와 Oracle을 활용한 캐릭터 굿즈 쇼핑몰
-
+# Shopping
+[팀프로젝트] JSP와 Oracle을 활용한 캐릭터 굿즈 쇼핑몰
  
 ## ERD
 ![쇼핑몰erd](https://user-images.githubusercontent.com/84892419/152153677-41620562-209b-4077-904e-a6ee79ee1d1d.jpg)
